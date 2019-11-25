@@ -1,5 +1,6 @@
 # FRFuel+
 A long-awaited successor to [@thers](https://github.com/thers/FRFuel) FRFuel.
+> Now with helicopters!
 
 ![FRFuel+](https://i.imgur.com/QUdmaW5.png)
 
