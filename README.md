@@ -42,7 +42,7 @@ Both gas stations/pads have three main variables:
 
 ## Feature: Fire Truck
 To use a fuel truck, you must have a refuel vehicle named `fueltruck`.
->> Note: This can be changed in lines 391 & 396 at FRFuel.cs.*
+>> Note: This can be changed in lines 391 & 396 at FRFuel.cs.
 
 Pull up to a vehicle/aircraft and player in control of it will see a notification, which states that refuel is available.
 ![Fuel Truck](https://i.imgur.com/2AnWgrO.png)
