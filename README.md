@@ -1,7 +1,7 @@
 # FRFuel+
 A long-awaited successor to [@thers](https://github.com/thers/FRFuel) FRFuel.
 
-![FRFuel+](https://i.imgur.com/1rcLMbx.png)
+![FRFuel+](https://i.imgur.com/QUdmaW5.png)
 
 ## Features
 
