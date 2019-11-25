@@ -5,6 +5,7 @@
 
 ## Features
 
+Everything that FRFuel has and more:
 + Support for helicopters
 + Realistic fuel consumption for helicopters and quads
 + Customizable helicopter pads (refuel stations)
