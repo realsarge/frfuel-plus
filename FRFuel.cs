@@ -700,11 +700,11 @@ namespace FRFuel
 
                         if (max - current < 0.5f)
                         {
-                            hud.InstructManualRefuel("Бак полон");
+                            hud.InstructManualRefuel("Tank is full");
                         }
                         else
                         {
-                            hud.InstructManualRefuel("Заправить");
+                            hud.InstructManualRefuel("Refuel");
                         }
 
                         if (Game.IsControlPressed(0, Control.Attack))
