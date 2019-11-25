@@ -174,7 +174,7 @@ namespace FRFuel
             buttons.CallFunction("TOGGLE_MOUSE_BUTTONS", 0);
             buttons.CallFunction("CREATE_CONTAINER");
 
-            buttons.CallFunction("SET_DATA_SLOT", 0, Function.Call<string>((Hash)0x0499D7B09FC9B407, 2, (int)FRFuel.engineToggleControl, false), "Заглушить");
+            buttons.CallFunction("SET_DATA_SLOT", 0, Function.Call<string>((Hash)0x0499D7B09FC9B407, 2, (int)FRFuel.engineToggleControl, false), "Turn engine off");
 
             buttons.CallFunction("DRAW_INSTRUCTIONAL_BUTTONS", -1);
         }
@@ -222,8 +222,8 @@ namespace FRFuel
             buttons.CallFunction("TOGGLE_MOUSE_BUTTONS", 0);
             buttons.CallFunction("CREATE_CONTAINER");
 
-            buttons.CallFunction("SET_DATA_SLOT", 0, Function.Call<string>((Hash)0x0499D7B09FC9B407, 2, (int)Control.Jump, false), "Заправить");
-            buttons.CallFunction("SET_DATA_SLOT", 1, Function.Call<string>((Hash)0x0499D7B09FC9B407, 2, (int)FRFuel.engineToggleControl, 0), "Завести");
+            buttons.CallFunction("SET_DATA_SLOT", 0, Function.Call<string>((Hash)0x0499D7B09FC9B407, 2, (int)Control.Jump, false), "Refuel");
+            buttons.CallFunction("SET_DATA_SLOT", 1, Function.Call<string>((Hash)0x0499D7B09FC9B407, 2, (int)FRFuel.engineToggleControl, 0), "Turn engine on");
 
             buttons.CallFunction("DRAW_INSTRUCTIONAL_BUTTONS", -1);
         }
