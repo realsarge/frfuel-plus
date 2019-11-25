@@ -12,5 +12,5 @@ A long-awaited successor to [@thers](https://github.com/thers/FRFuel) FRFuel.
 
 ## Roadmap
 
-+ Add support for planes & boats;
-+ Add sound effects for air vehicles, e.g. low fuel alert.
+- [ ] Add support for planes & boats;
+- [ ] Add sound effects for air vehicles, e.g. low fuel alert.
