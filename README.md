@@ -45,7 +45,7 @@ Both gas stations/pads have three main variables:
 To use a fuel truck, you must have a refuel vehicle named `fueltruck`. Pull up to a vehicle/aircraft and player in control of it will see a notification, which states that refuel is available.
 
 ![Fuel Truck](https://i.imgur.com/2AnWgrO.png)
-If you want to use Freightliner FL-60-70 displayed in image above, you can download it at [LSPDFR](https://www.lcpdfr.com/files/file/21804-freightliner-fl-60-70-fire-mini-pack-non-els-templated/) and RON livery for it in [Releases](https://github.com/h0kkaido/frfuel-plus/releases/tag/fueltruck).
+If you want to use Freightliner FL-60-70 displayed in the image above, you can download it at [LSPDFR](https://www.lcpdfr.com/files/file/21804-freightliner-fl-60-70-fire-mini-pack-non-els-templated/) and RON livery for it in [Releases](https://github.com/h0kkaido/frfuel-plus/releases/tag/fueltruck).
 
 ---
 Coded with :heart: by @h0kkaido.
