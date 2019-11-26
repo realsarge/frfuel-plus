@@ -196,12 +196,12 @@ namespace FRFuel
                 if (GasStations.pumptypes[i] == "HELIPAD")
                 {
                     blip.Sprite = BlipSprite.Helipad;
-                    blip.Name =  "Заправка для вертолетов";
+                    blip.Name =  "Helipad";
                 }
                 else
                 {
                     blip.Sprite = BlipSprite.JerryCan;
-                    blip.Name = "Заправка";
+                    blip.Name = "Fuel station";
                 }
 
                 blip.Color = BlipColor.White;
