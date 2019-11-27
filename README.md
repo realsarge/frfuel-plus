@@ -1,4 +1,4 @@
-# FRFuel+
+# FRFuel+ [![Build status](https://ci.appveyor.com/api/projects/status/6av9yiw44f8w66i9?svg=true)](https://ci.appveyor.com/project/h0kkaido/frfuel-plus)
 :fuelpump: A long-awaited successor to [@thers](https://github.com/thers/FRFuel) FRFuel.
 
 ![FRFuel+](https://i.imgur.com/QUdmaW5.png)
